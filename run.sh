@@ -2,7 +2,7 @@
 
 # ./run.sh hector 50 1 -> runs hector exp1 for 50 times
 # ./run.sh hbase 8 2 -> runs hbase exp2 for 8 times
-# ./run.sh ninja 3 2 -> runs ninja exp1 for 3 times
+# ./run.sh ninja 3 2 -> runs ninja exp2 for 3 times
 
 # results will be in the folder called `results
 
